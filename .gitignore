@@ -1,0 +1,4 @@
+# Ignore certain files or directories
+/Other Files/
+# Ignore files with .pptx extension
+*.pptx
